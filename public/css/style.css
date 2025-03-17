@@ -1,0 +1,13 @@
+p {
+  margin: 10px 0 !important;
+}
+
+.login-container {
+  margin-top: 50px;
+  text-align: center;
+  width: 400px;
+}
+
+.card {
+  background: rgb(215, 237, 229);
+}
