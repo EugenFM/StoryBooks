@@ -11,3 +11,7 @@ const connectDB = async () => {
 };
 
 module.exports = connectDB;
+
+// MongoDB
+// Username: eugenfmorar
+// Password: BFWyCLZ9rKg2SR3j1
